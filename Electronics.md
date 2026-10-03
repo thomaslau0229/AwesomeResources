@@ -32,3 +32,4 @@
 
 1. [Learn Electronics](https://www.youtube.com/channel/UCSRTiJhBE5GsP-1fCbpFRWg) (Youtube Channel).
 2. [Free Books on Robotics](https://github.com/StevenShiChina/books)
+3. [DJI Drone Parts Evidence Worksheet](https://reboot-hub.github.io/dji-drone-parts-reference/) - Open learning worksheet and classroom exercises on checking model identity, connectors, board revisions and condition before selecting replacement modules.
